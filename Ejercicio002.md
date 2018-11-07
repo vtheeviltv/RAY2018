@@ -22,3 +22,36 @@ Ejemplos básicos: (explicación, código, vista)
   
   -Botón normal: <button>Click me</button>  
   -Botón radical: 
+  -Botón Selección: 
+  -Menú de selección desplegable:
+  -Panel de entrada de texto:
+  -Sliders:
+    
+    
+    
+-Campo de texto H1, ..., Hn + Span:
+-Tabalas: <table style="width:100%">  
+-Imagenes: <img src="pic_trulli.jpg" alt="Italian Trulli">  
+-Barras de pogreso:
+    
+      
+        
+-Slctores css:
+  
+    
+      
+-Display:
+-Margin:
+-Padding:
+-Text-align:
+  
+    
+      
+-Background:
+-Color:
+-Border:
+-Font:
+  
+    
+      
+-[CSS+BootStrap]:
