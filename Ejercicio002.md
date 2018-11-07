@@ -30,8 +30,8 @@ Ejemplos básicos: (explicación, código, vista)
     
     
 -Campo de texto H1, ..., Hn + Span:
--Tabalas: <table style="...">  
--Imagenes: <img src="...">  
+-Tabalas: < table style="..." >  
+-Imagenes: < img src="..." > 
 -Barras de pogreso:
     
       
