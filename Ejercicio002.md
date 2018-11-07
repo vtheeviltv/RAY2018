@@ -48,8 +48,9 @@ Ejemplos básicos: (explicación, código, vista)
     
       
 -Background:
--Color:
+-Color: <style> color: blue </style>
 -Border:
+-Box-shadow:
 -Font:
   
     
