@@ -20,7 +20,7 @@ Ejercicio 1
      
 Ejemplos básicos: (explicación, código, vista)  
   
-  -Botón normal: <button>Click me</button>  
+  -Botón normal: < button > Click me </ button >  
   -Botón radical: 
   -Botón Selección: 
   -Menú de selección desplegable:
