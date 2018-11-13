@@ -19,7 +19,7 @@ Galeía; te lleva a una sección con imagenes de Hammond.
 
 Botones; te envia a una explicación sobre botones de las páginas web. 
 
-MocksUps; ![alt text](file:///C:/Users/u_38016571/Pictures/MockUp%201.png)
+MocksUps; ![MocksUps](file:///C:/Users/u_38016571/Pictures/MockUp%201.png)
 Recursos; 
 <!DOCTYPE html>
 <html>
