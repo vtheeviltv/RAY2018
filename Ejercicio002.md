@@ -23,15 +23,14 @@ Ejemplos básicos: (explicación, código, vista)
   -Botón normal: < button > Click me </ button >  
   -Botón radical: 
   -Botón Selección: 
-  -Menú de selección desplegable: < nav class="menuCSS3" > < ul >
-			<li>< a href="#" > </ a ></ li >
-			< li >< a href="#"> </ a >
-				< ul >
-					< li >< a href="#" > </ a ></ li >
-					< li >< a href="#" > </ a ></ li >
-					< li >< a href="#" > </ a ></ li >
-					< li >< a href="#" > </ a ></ li >
-				</ ul >
+  -Menú de selección desplegable: < nav class="menuCSS3" > < ul >  
+			<li>< a href="#" > </ a ></ li >  
+				< ul >  
+					< li >< a href="#" > </ a ></ li >  
+					< li >< a href="#" > </ a ></ li >  
+					< li >< a href="#" > </ a ></ li >  
+					< li >< a href="#" > </ a ></ li >  
+				</ ul >  
   -Panel de entrada de texto:
   -Sliders: < div class="slidecontainer" >
   < input type="range" min="1" max="100" value="50" class="slider" id="myRange" >
