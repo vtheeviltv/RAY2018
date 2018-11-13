@@ -50,7 +50,7 @@ Ejemplos básicos: (explicación, código, vista)
     
       
 -Background: body { background-color: ;}  
--Color: <style> color: blue </style>
+-Color: < style > color: blue </ style >  
 -Border:
 -Box-shadow:
 -Font:
