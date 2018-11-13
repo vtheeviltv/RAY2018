@@ -24,7 +24,7 @@ Ejemplos básicos: (explicación, código, vista)
   -Botón radical: 
   -Botón Selección: 
   -Menú de selección desplegable: < nav class="menuCSS3" > < ul >  
-			< li >< a href=" " > </ a ></ li >  
+			< li >< a href="#" > </ a ></ li >  
 				< ul >  
 					< li >< a href="#" > </ a ></ li >  
 					< li >< a href="#" > </ a ></ li >  
