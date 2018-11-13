@@ -25,9 +25,9 @@ Ejemplos básicos: (explicación, código, vista)
   -Botón Selección: 
   -Menú de selección desplegable:
   -Panel de entrada de texto:
-  -Sliders: <div class="slidecontainer">
-  <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
-</div>  
+  -Sliders: < div class="slidecontainer" >
+  < input type="range" min="1" max="100" value="50" class="slider" id="myRange" >
+</ div >  
     
     
     
