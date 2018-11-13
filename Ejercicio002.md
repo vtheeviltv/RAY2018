@@ -31,7 +31,7 @@ Ejemplos básicos: (explicación, código, vista)
 					< li >< a href="#" > </ a ></ li >  
 					< li >< a href="#" > </ a ></ li >  
 				</ ul >  
-  -Panel de entrada de texto:
+  -Panel de entrada de texto: < input type="text" name="nombredelacaja" >  
   -Sliders: < div class="slidecontainer" >
   < input type="range" min="1" max="100" value="50" class="slider" id="myRange" >
 </ div >  
