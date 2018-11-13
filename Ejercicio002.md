@@ -49,7 +49,7 @@ Ejemplos básicos: (explicación, código, vista)
   
     
       
--Background:
+-Background: body { background-color: ;}  
 -Color: <style> color: blue </style>
 -Border:
 -Box-shadow:
