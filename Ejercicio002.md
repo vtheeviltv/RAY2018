@@ -45,25 +45,29 @@ Ejemplos básicos: (explicación, código, vista)
     
       
         
--Selectores css: class, id, element, [ attribute ], ...
+-Selectores css: class, id, element, [ attribute ], ...  
   
     
       
--Display: < div > </ div >
--Margin: margin-top, margin-right, margin-bottom, margin-left.
+-Display: < div > </ div >  
+-Margin: margin-top, margin-right, margin-bottom, margin-left.  
 
--Padding: padding-top, padding-right, padding-bottom, padding-left.
+-Padding: padding-top, padding-right, padding-bottom, padding-left.  
 
 -Text-align: h1 {
  text-align: center, left o right
-  }
+  }  
     
       
--Background: body { background-color: ;}  
--Color: < style > color: blue </ style >  
--Border: p.dotted { border-style: dotted, dashed, solid, double, groove, ridge, inset, outset, none o hidden }
--Box-shadow:
--Font:
+-Background: body { background-color: ;}    
+-Color: < style > color: blue </ style >    
+-Border: p.dotted { border-style: dotted, dashed, solid, double, groove, ridge, inset, outset, none o hidden }  
+-Box-shadow: div {
+    box-shadow: 10px 10px;
+}  
+-Font:p {
+    font-family: "T", Times, serif;
+}  
   
     
       
