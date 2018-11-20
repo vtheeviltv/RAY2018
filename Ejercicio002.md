@@ -38,10 +38,10 @@ Ejemplos básicos: (explicación, código, vista)
     
     
     
--Campo de texto H1, ..., Hn + Span:
+-Campo de texto H1, ..., Hn + Span: <span>  </span>
 -Tabalas: < table style="..." >  
 -Imagenes: < img src="..." > 
--Barras de pogreso:
+-Barras de pogreso: < progress max=”100″ value=”80″ ></ progress >
     
       
         
