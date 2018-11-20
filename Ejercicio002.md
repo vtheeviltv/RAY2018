@@ -45,7 +45,7 @@ Ejemplos básicos: (explicación, código, vista)
     
       
         
--Selectores css:
+-Selectores css: class, id, element, [ attribute ], ...
   
     
       
