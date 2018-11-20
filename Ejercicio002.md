@@ -50,7 +50,8 @@ Ejemplos básicos: (explicación, código, vista)
     
       
 -Display: < div > </ div >
--Margin:
+-Margin: margin-top, margin-right, margin-bottom, margin-left
+
 -Padding:
 -Text-align:
   
