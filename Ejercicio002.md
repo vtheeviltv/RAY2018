@@ -54,8 +54,9 @@ Ejemplos básicos: (explicación, código, vista)
 
 -Padding: padding-top, padding-right, padding-bottom, padding-left.
 
--Text-align:
-  
+-Text-align: h1 {
+ text-align: center, left o right
+  }
     
       
 -Background: body { background-color: ;}  
