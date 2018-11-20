@@ -61,7 +61,7 @@ Ejemplos básicos: (explicación, código, vista)
       
 -Background: body { background-color: ;}  
 -Color: < style > color: blue </ style >  
--Border:
+-Border: p.dotted { border-style: dotted, dashed, solid, double, groove, ridge, inset, outset, none o hidden }
 -Box-shadow:
 -Font:
   
