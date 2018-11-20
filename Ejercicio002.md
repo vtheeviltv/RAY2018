@@ -45,11 +45,11 @@ Ejemplos básicos: (explicación, código, vista)
     
       
         
--Slctores css:
+-Selectores css:
   
     
       
--Display:
+-Display: < div > </ div >
 -Margin:
 -Padding:
 -Text-align:
