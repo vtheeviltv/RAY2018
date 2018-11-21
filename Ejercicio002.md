@@ -21,7 +21,7 @@ Ejercicio 2
 Ejemplos básicos: (explicación, código, vista)  
   
   -Botón normal: < button > Click me </ button >  
-  -Botón radical: 
+  -Botón radial:  < input type="radio" name="citizenship" / >< br / >
   -Botón Selección: 
   -Menú de selección desplegable: < nav class="menuCSS3" > < ul >  
 			< li >< a href="#" > </ a ></ li >  
