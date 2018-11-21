@@ -74,7 +74,7 @@ Ejemplos básicos:
   
     
       
--[CSS+BootStrap]: BootStrap sirve para modificar las columnas de una pagina web. Con los mas importantes como: .col-*-*, ontainer, col, row,.... Ej: <div class= "container" >    
+-[CSS+BootStrap]: BootStrap sirve para modificar las columnas de una pagina web. Con los mas importantes como: .col-*-*, ontainer, col, row,.... Ej: < div class= "container" >    
 	                        < div class="row" >  
 			          < div class="col" >1</ div >  
 			          < div class="col" >2</ div >  
