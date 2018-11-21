@@ -18,11 +18,14 @@ Ejercicio 2
  - Wikipedia  > https://es.wikipedia.org/wiki/HTML5  
    
      
-Ejemplos básicos: (explicación, código, vista)  
+Ejemplos básicos:
   
   -Botón normal: < button > Click me </ button >  
   -Botón radial:  < input type="radio" name="citizenship" / >< br / >
-  -Botón Selección: 
+  -Botón Selección: < p > < select name= "OS" >  
+                      < option value="1" > opcion 1 </ option >  
+		      < option value="2" > opcion 2 </ option >  
+		      < option value="3" > opcion 3 </ option >  
   -Menú de selección desplegable: < nav class="menuCSS3" > < ul >  
 			< li >< a href="#" > </ a ></ li >  
 				< ul >  
@@ -71,4 +74,10 @@ Ejemplos básicos: (explicación, código, vista)
   
     
       
--[CSS+BootStrap]:
+-[CSS+BootStrap]: BootStrap sirve para modificar las columnas de una pagina web. Con los mas importantes como: .col-*-*, ontainer, col, row,.... Ej: <div class= "container" >  
+	                        < div class="row" >
+			          < div class="col" >1</ div >
+			          < div class="col" >2</ div >
+			          < div class="col" >3
+			        </ div >
+			     </ div >
