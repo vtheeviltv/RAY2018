@@ -31,8 +31,8 @@ var ball = {
 	currentX : 20,
 	currentY : 40,
 
-	moveX : 2,
-	moveY : -2
+	moveX : 8,
+	moveY : 6
 }
 
 var paddle = {
